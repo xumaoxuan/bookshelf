@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on maoxuan&#39;s website</title>
+    <link>https://xumaoxuan.github.io/bookshelf/post/index.xml</link>
+    <description>Recent content in Posts on maoxuan&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2016 19:05:07 +0800</lastBuildDate>
+    <atom:link href="https://xumaoxuan.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>good</title>
+      <link>https://xumaoxuan.github.io/bookshelf/post/good/</link>
+      <pubDate>Sun, 25 Dec 2016 19:05:07 +0800</pubDate>
+      
+      <guid>https://xumaoxuan.github.io/bookshelf/post/good/</guid>
+      <description>&lt;p&gt;there was one day,a rabbit running outsite the&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
